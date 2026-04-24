@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/brajesh-singh-328413229">
     <img src="https://img.shields.io/badge/LinkedIn-Brajesh%20Singh-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:brajeshsingh2911@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -28,8 +28,18 @@
 ### 🚀 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context_API-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aceternity_UI-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+</p>
+
+---
 
 ### ⚙️ Backend (Learning)
 
@@ -37,10 +47,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+---
+
 ### 🧪 Testing & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <!-- Supported Icons -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+<p>
+  <!-- Advanced Testing Tools -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 ---
@@ -79,7 +100,7 @@
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/brajesh-singh-328413229
-* 📧 Email: [brajeshsingh2911@gmail.com](mailto:your-email@gmail.com)
+* 📧 Email: [brajeshsingh2911@gmail.com](mailto:brajeshsingh2911@gmail.com)
 
 ---
 
